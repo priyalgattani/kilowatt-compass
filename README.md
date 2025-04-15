@@ -33,7 +33,7 @@ KiloWatt Compass is a web application designed to help electric vehicle (EV) use
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/priyalgattani/kilowatt-compass.git
 cd kilowattcompass
 ```
 
